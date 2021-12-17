@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1071518966451",
+    "project_id": "enseguida-shop-cd6a2",
+    "storage_bucket": "enseguida-shop-cd6a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071518966451:android:5be9788e7bb8041f0d06c6",
+        "android_client_info": {
+          "package_name": "com.example.enseguida_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071518966451-jg1qrr9klaitfctlh639cef78n5a4e9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enseguida_shop",
+            "certificate_hash": "fd9769a80ea6aa9880040ff3b98144010c5a9a94"
+          }
+        },
+        {
+          "client_id": "1071518966451-sp3r8v1vkbf0o80n7ndb1guta90k91tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRkEEUAfoy0omH7uWhdAWvWkccYNnxWWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071518966451-sp3r8v1vkbf0o80n7ndb1guta90k91tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
